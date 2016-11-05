@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'SJUtils_Example' do
+  pod 'SJUtils', :path => '../'
+end
