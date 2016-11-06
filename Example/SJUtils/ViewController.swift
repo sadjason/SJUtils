@@ -13,8 +13,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = UIColor(hex: 0x06c1ae)
-        view.backgroundColor = UIColor(hexString: "0x06c1ae")
+        //view.backgroundColor = UIColor(hex: 0x06c1ae)
+        view.backgroundColor = UIColor(hexString: "0x06c1aef")
         //view.backgroundColor = UIColor(hex: 0x0000ff)
     }
 }
