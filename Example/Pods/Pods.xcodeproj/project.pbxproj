@@ -7,16 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2470CAECFE403F05B997DE16A7F2E301 /* SJUtils-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4FCD14FD2777099AC25294325C4DCF /* SJUtils-dummy.m */; };
 		2D05C44A1E87FF29B450A3002E60A922 /* SJUtils-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A8D972716C5104F5525234C5C72617C4 /* SJUtils-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		33A5AEEFDC264DB442C2E729916FD272 /* UIColor+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F5E4D313EC684BBED7B926E539FFAF /* UIColor+Utils.swift */; };
-		604D41C310A329481C57B89206C1A2D3 /* SJUtils-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A4FCD14FD2777099AC25294325C4DCF /* SJUtils-dummy.m */; };
-		9A01F03C3CCF311F0721D66552596E43 /* String+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FDC625D9BC79887612E83FC47782DB /* String+Utils.swift */; };
-		A368E42BA79FE698A40708F295FE2A29 /* Integer+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D97B2D94237683FFBF2F8D3F3A9DD8F /* Integer+Utils.swift */; };
+		479C0A7CD1996B7DD1F03D80B606D351 /* Integer+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2156F80225514DEA8EEE789F0C2ADF1B /* Integer+Utils.swift */; };
+		4B69D54E084AF4A33A1F821D8A079297 /* String+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFBC5379487032FA5AF4A39E98F2CA34 /* String+Utils.swift */; };
+		4C1365D2E09E7985E09C7E891A3FBD19 /* Floating+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = E75DAEBF54AF3B224C75C7386D29B4FE /* Floating+Utils.swift */; };
+		A9B5456133B7B3E3566142BBD2CD26AF /* SadJason.swift in Sources */ = {isa = PBXBuildFile; fileRef = B02961E7E69497FA1AF724FF5E097A8F /* SadJason.swift */; };
 		ABA2220BD3E6C415CEE63EF86B8BD7B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		B75D9FF4C68396B110599BD11A01D197 /* Pods-SJUtils_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E64860EC5F80BFCF469F2CEBF0652273 /* Pods-SJUtils_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C212DE2168221347CC8A4AB5E5BC465B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
-		C8F9EDC4F11900F8867276E7B9091DDF /* Floating+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 783EA61A949F8FBD46667DE6D1E7D148 /* Floating+Utils.swift */; };
+		C721AD2F6A514CA1AC15C70A676B894C /* UIColor+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9851FEE5B034AD5424C2E6A8B887D740 /* UIColor+Utils.swift */; };
 		CB6679B2536DDF24A02C6034A91EA715 /* Pods-SJUtils_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CF1919FDB5CC536C12E75605138186D /* Pods-SJUtils_Example-dummy.m */; };
+		DEE77235A6F011F29513930ED0102ACF /* UIView+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F768CBBABE54C2BED7AAC07944AEBDF /* UIView+Utils.swift */; };
+		E3F700C140B025003A17B6C7D3A0716C /* UIScreen+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FBA40CD7786151883F9FC213F605BD7 /* UIScreen+Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,17 +35,20 @@
 /* Begin PBXFileReference section */
 		0C149B3449609FEAFAE8AC221218BD96 /* Pods-SJUtils_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SJUtils_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		0CF1919FDB5CC536C12E75605138186D /* Pods-SJUtils_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SJUtils_Example-dummy.m"; sourceTree = "<group>"; };
-		19FDC625D9BC79887612E83FC47782DB /* String+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "String+Utils.swift"; sourceTree = "<group>"; };
+		0FBA40CD7786151883F9FC213F605BD7 /* UIScreen+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIScreen+Utils.swift"; sourceTree = "<group>"; };
+		1F768CBBABE54C2BED7AAC07944AEBDF /* UIView+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIView+Utils.swift"; sourceTree = "<group>"; };
+		2156F80225514DEA8EEE789F0C2ADF1B /* Integer+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Integer+Utils.swift"; sourceTree = "<group>"; };
 		37E2F471C4FBED53F28F4C41C7E6D045 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A4FCD14FD2777099AC25294325C4DCF /* SJUtils-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SJUtils-dummy.m"; sourceTree = "<group>"; };
-		4D97B2D94237683FFBF2F8D3F3A9DD8F /* Integer+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Integer+Utils.swift"; sourceTree = "<group>"; };
 		5C9C05837AA1E200BC9C75612F1A1594 /* Pods_SJUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SJUtils_Example.framework; path = "Pods-SJUtils_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		62B3874130E682853D5C0D7B8CEE1A30 /* Pods-SJUtils_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJUtils_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		783EA61A949F8FBD46667DE6D1E7D148 /* Floating+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Floating+Utils.swift"; sourceTree = "<group>"; };
 		7C59CE7FFD6827A31299D4D1F4DD2CEB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9851FEE5B034AD5424C2E6A8B887D740 /* UIColor+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIColor+Utils.swift"; sourceTree = "<group>"; };
 		A8D972716C5104F5525234C5C72617C4 /* SJUtils-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SJUtils-umbrella.h"; sourceTree = "<group>"; };
 		AB79F75A7741CFCA7030A27673CC0B33 /* Pods-SJUtils_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SJUtils_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		AFBC5379487032FA5AF4A39E98F2CA34 /* String+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "String+Utils.swift"; sourceTree = "<group>"; };
+		B02961E7E69497FA1AF724FF5E097A8F /* SadJason.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SadJason.swift; sourceTree = "<group>"; };
 		B8A048B8373E5264620A2DE1AB123226 /* Pods-SJUtils_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SJUtils_Example-resources.sh"; sourceTree = "<group>"; };
 		C19CD8FFC3DE5E6812CAC55544B7C0F3 /* SJUtils.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SJUtils.xcconfig; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -51,9 +57,9 @@
 		DD4CDA5E3559D44225DE207DF5C244C6 /* Pods-SJUtils_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SJUtils_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E1B1D11BF50487E861A48B808D28C835 /* SJUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SJUtils.framework; path = SJUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E64860EC5F80BFCF469F2CEBF0652273 /* Pods-SJUtils_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SJUtils_Example-umbrella.h"; sourceTree = "<group>"; };
+		E75DAEBF54AF3B224C75C7386D29B4FE /* Floating+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "Floating+Utils.swift"; sourceTree = "<group>"; };
 		EE9F82E28CD3715D8BE2D9AF187B30E3 /* Pods-SJUtils_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SJUtils_Example.modulemap"; sourceTree = "<group>"; };
 		F7757C21AAF3EEFD07D29160480076FB /* SJUtils.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SJUtils.modulemap; sourceTree = "<group>"; };
-		F9F5E4D313EC684BBED7B926E539FFAF /* UIColor+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIColor+Utils.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +94,29 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/SJUtils";
+			sourceTree = "<group>";
+		};
+		1EA8E1A2A1E7CCF54D4E14AC2007EEF5 /* SJUtils */ = {
+			isa = PBXGroup;
+			children = (
+				35BFDD66AE829D771D2D066D7EAA0A17 /* Classes */,
+			);
+			name = SJUtils;
+			path = SJUtils;
+			sourceTree = "<group>";
+		};
+		35BFDD66AE829D771D2D066D7EAA0A17 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E75DAEBF54AF3B224C75C7386D29B4FE /* Floating+Utils.swift */,
+				2156F80225514DEA8EEE789F0C2ADF1B /* Integer+Utils.swift */,
+				B02961E7E69497FA1AF724FF5E097A8F /* SadJason.swift */,
+				AFBC5379487032FA5AF4A39E98F2CA34 /* String+Utils.swift */,
+				9851FEE5B034AD5424C2E6A8B887D740 /* UIColor+Utils.swift */,
+				D7C8B0560E090B7F2CC1E4512C5B9CEF /* FrameLayout */,
+			);
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		6261FEA681694E7784E09BDA717D5277 /* Development Pods */ = {
@@ -143,33 +172,12 @@
 			path = "Target Support Files/Pods-SJUtils_Example";
 			sourceTree = "<group>";
 		};
-		917080DF435705DFA88A368D0361830F /* SJUtils */ = {
-			isa = PBXGroup;
-			children = (
-				BD98C6562F77E2824FE5ED61D6463A30 /* Classes */,
-			);
-			name = SJUtils;
-			path = SJUtils;
-			sourceTree = "<group>";
-		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		BD98C6562F77E2824FE5ED61D6463A30 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				783EA61A949F8FBD46667DE6D1E7D148 /* Floating+Utils.swift */,
-				4D97B2D94237683FFBF2F8D3F3A9DD8F /* Integer+Utils.swift */,
-				19FDC625D9BC79887612E83FC47782DB /* String+Utils.swift */,
-				F9F5E4D313EC684BBED7B926E539FFAF /* UIColor+Utils.swift */,
-			);
-			name = Classes;
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		D3795C04B8C4098C0EF85AC22FC388D0 /* Products */ = {
@@ -181,10 +189,20 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		D7C8B0560E090B7F2CC1E4512C5B9CEF /* FrameLayout */ = {
+			isa = PBXGroup;
+			children = (
+				0FBA40CD7786151883F9FC213F605BD7 /* UIScreen+Utils.swift */,
+				1F768CBBABE54C2BED7AAC07944AEBDF /* UIView+Utils.swift */,
+			);
+			name = FrameLayout;
+			path = FrameLayout;
+			sourceTree = "<group>";
+		};
 		F948AC16297CCCEACE2A9A5ACA119FB4 /* SJUtils */ = {
 			isa = PBXGroup;
 			children = (
-				917080DF435705DFA88A368D0361830F /* SJUtils */,
+				1EA8E1A2A1E7CCF54D4E14AC2007EEF5 /* SJUtils */,
 				06393B2085B6F5E96B984534F8465F2E /* Support Files */,
 			);
 			name = SJUtils;
@@ -217,7 +235,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 72B89E4257FA0E5F98D59BEA7984FC23 /* Build configuration list for PBXNativeTarget "SJUtils" */;
 			buildPhases = (
-				61029DBB893C3ADF25646EFADA9F64E0 /* Sources */,
+				300E71888501D86A05A3A33D27C274E5 /* Sources */,
 				6B92E02469E74735EC49DC2454BCEA7E /* Frameworks */,
 				E8BB8661472D4E8D637FEB96797246D8 /* Headers */,
 			);
@@ -276,15 +294,18 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		61029DBB893C3ADF25646EFADA9F64E0 /* Sources */ = {
+		300E71888501D86A05A3A33D27C274E5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8F9EDC4F11900F8867276E7B9091DDF /* Floating+Utils.swift in Sources */,
-				A368E42BA79FE698A40708F295FE2A29 /* Integer+Utils.swift in Sources */,
-				604D41C310A329481C57B89206C1A2D3 /* SJUtils-dummy.m in Sources */,
-				9A01F03C3CCF311F0721D66552596E43 /* String+Utils.swift in Sources */,
-				33A5AEEFDC264DB442C2E729916FD272 /* UIColor+Utils.swift in Sources */,
+				4C1365D2E09E7985E09C7E891A3FBD19 /* Floating+Utils.swift in Sources */,
+				479C0A7CD1996B7DD1F03D80B606D351 /* Integer+Utils.swift in Sources */,
+				A9B5456133B7B3E3566142BBD2CD26AF /* SadJason.swift in Sources */,
+				2470CAECFE403F05B997DE16A7F2E301 /* SJUtils-dummy.m in Sources */,
+				4B69D54E084AF4A33A1F821D8A079297 /* String+Utils.swift in Sources */,
+				C721AD2F6A514CA1AC15C70A676B894C /* UIColor+Utils.swift in Sources */,
+				E3F700C140B025003A17B6C7D3A0716C /* UIScreen+Utils.swift in Sources */,
+				DEE77235A6F011F29513930ED0102ACF /* UIView+Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

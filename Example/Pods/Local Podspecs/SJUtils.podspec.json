@@ -1,6 +1,6 @@
 {
   "name": "SJUtils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A personal utils",
   "description": "A personal utils, just for fun",
   "homepage": "http://zhangbuhuai.com",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/sadjason/SJUtils.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

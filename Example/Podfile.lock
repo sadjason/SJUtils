@@ -1,5 +1,5 @@
 PODS:
-  - SJUtils (0.1.0)
+  - SJUtils (0.1.1)
 
 DEPENDENCIES:
   - SJUtils (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SJUtils: 74e8fe0d6782147e5ee0850198c7a75dbae32060
+  SJUtils: e37ec1e4ed4691d2161f26216f94d24397dbff08
 
 PODFILE CHECKSUM: 9049200a8b1d558c0a36819676c68ad5eb225cea
 
